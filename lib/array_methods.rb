@@ -7,7 +7,8 @@ def find_element_index(array, value_to_find)
       puts counter
     else
       puts nil
-      
+    end
+    counter += 1
 end
 
 def find_max_value(array)
